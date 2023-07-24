@@ -1,0 +1,50 @@
+[
+    {
+        "nim": "10101",
+        "nama": "Mukhlis Haka",
+        "jenisKelamin": "Laki-laki",
+        "tempat": "Jakarta",
+        "tanggal": "1995-05-11",
+        "agama": "Islam",
+        "alamat": "Jl. Taman Nuri",
+        "telepon": "081387626352",
+        "email": "mukhlishaka@gmail.com",
+        "jurusan": "Komputer Akuntansi",
+        "matkul": "Algoritma",
+        "nilai": "90",
+        "nh": "B",
+        "keterangan": "Lulus"
+    },
+    {
+        "nim": "10102",
+        "nama": "Novandi Auliansyah",
+        "jenisKelamin": "Laki-laki",
+        "tempat": "Jakarta",
+        "tanggal": "1998-11-30",
+        "agama": "Islam",
+        "alamat": "Jl. Kp Duri",
+        "telepon": "081387293849",
+        "email": "novandiaul@gmail.com",
+        "jurusan": "Sistem Informasi",
+        "matkul": "Agama",
+        "nilai": "50",
+        "nh": "E",
+        "keterangan": "Tidak Lulus"
+    },
+    {
+        "nim": "10103",
+        "nama": "Nurlita Ayu Deviany",
+        "jenisKelamin": "Perempuan",
+        "tempat": "Tangerang",
+        "tanggal": "1997-09-17",
+        "agama": "Islam",
+        "alamat": "Jl. Kebahagiaan",
+        "telepon": "081381294891",
+        "email": "ayudeviany@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "matkul": "Bahasa Inggris",
+        "nilai": "100",
+        "nh": "A",
+        "keterangan": "Lulus"
+    }
+]
